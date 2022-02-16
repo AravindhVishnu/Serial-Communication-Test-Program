@@ -6,6 +6,6 @@ In slave mode, the program receives the byte and sends the inverted value. If re
 a wrong value is received, this is logged to a file. This kind of program can be helpful when testing the 
 embedded device's UART driver.
 
-Tools: Visual Studio 2022
+Tools: Microsoft Visual Studio 2022
 
 Note: This program has only been tested on the Windows 10 operating system
