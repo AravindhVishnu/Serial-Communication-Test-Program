@@ -11,3 +11,5 @@ between each program start/end.
 Tools: Visual Studio 2022, .NET Framework 4.8, Windows Forms
 
 Note: This program has only been tested on the Windows 10 operating system
+
+![image](https://user-images.githubusercontent.com/70747761/155663689-d2407768-600c-485d-ae7d-f38703a5f2c1.png)
