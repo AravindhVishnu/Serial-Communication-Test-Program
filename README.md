@@ -8,6 +8,6 @@ embedded device's UART driver. Configuring the serial port, opening the data fil
 monitoring the serial communication is part of the GUI functionality. Serial port settings are retained
 between each program start/end.
 
-Tools: Visual Studio 2022, .NET Framework 4.8
+Tools: Visual Studio 2022, .NET Framework 4.8, Windows Forms
 
 Note: This program has only been tested on the Windows 10 operating system
