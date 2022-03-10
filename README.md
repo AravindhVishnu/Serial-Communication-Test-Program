@@ -1,5 +1,5 @@
 # Serial-Communication-Test-Program
-Program used to test the serial communication with an embedded device.
+Program used to test the serial communication with an Embedded Device.
 
 Description: In master mode, the program sends a byte and expects the slave to send back the inverted byte.
 In slave mode, the program receives the byte and sends the inverted value. If read/write timeout occurs or 
